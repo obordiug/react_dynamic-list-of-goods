@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,WACE,YAAa,CACb,qBAAsB,CACtB,kBAAmB","file":"main.fb28cefa.chunk.css","sourcesContent":[".container {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n}\n"]}
